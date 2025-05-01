@@ -25,8 +25,11 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam055&theme=dark" alt="Pritam055" /></p>
 
 ###
-### 🛠 &nbsp;Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python)&nbsp;
+<!--
+### 🛠 &nbsp;Tech Stack
 ![Django](https://img.shields.io/badge/-Django-white?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pritam055&label=Profile%20views&color=0e75b6&style=flat&label=👀" alt="Pritam055" /> </p>
+-->
